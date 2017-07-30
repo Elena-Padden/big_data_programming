@@ -1,0 +1,10 @@
+Author Statistics:
+Thomas : 191 changes, 45 %Jimmy : 152 changes, 36 %Vincent : 26 changes, 6 %/OU=Domain Control Validated/CN=svn.company.net : 24 changes, 5 %ajon0002 : 9 changes, 2 %Freddie : 7 changes, 1 %Alan : 5 changes, 1 %Nicky : 5 changes, 1 %Dave : 2 changes, 0 %murari.krishnan : 1 changes, 0 %
+Day Statistics:
+Thu : 118 changes, 27 %Fri : 95 changes, 22 %Tue : 80 changes, 18 %Wed : 76 changes, 18 %Mon : 53 changes, 12 %
+Hour Statistics:
+14 : 96 changes, 22 %11 : 57 changes, 13 %13 : 56 changes, 13 %15 : 52 changes, 12 %16 : 39 changes, 9 %09 : 33 changes, 7 %12 : 31 changes, 7 %10 : 30 changes, 7 %08 : 12 changes, 2 %17 : 4 changes, 0 %20 : 3 changes, 0 %06 : 3 changes, 0 %07 : 2 changes, 0 %18 : 2 changes, 0 %19 : 1 changes, 0 %05 : 1 changes, 0 %
+Month Statistics:
+07 : 102 changes, 24 %10 : 97 changes, 22 %11 : 96 changes, 22 %08 : 83 changes, 19 %09 : 44 changes, 10 %
+Year Statistics:
+2015 : 422 changes, 100 %
